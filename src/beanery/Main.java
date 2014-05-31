@@ -9,12 +9,12 @@ package beanery;
  *
  * @author SonnyGauran
  */
-public class Main {
-
-    /**
-     * @param args the command line arguments
-     */
+public class Main {     
     public static void main(String[] args) {
+    //System.out.println("alim")       ;
+        System.out.println("something different");
+    
+   
         // TODO code application logic here
     }
 
